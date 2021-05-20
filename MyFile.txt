@@ -4,3 +4,7 @@ From Git Training
 It's a online class
 
 Adding this new feature.,,,
+
+Keval is very cool.
+He is my partner in this example.
+I am happy!
